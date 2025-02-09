@@ -1,4 +1,4 @@
-import { Prisma, PrismaClient } from "@prisma/client";
+import { Prisma } from "@prisma/client";
 import type { Equal } from "../types/Equal";
 import type { Expect } from "../types/Expect";
 
