@@ -22,7 +22,7 @@ const SELECT_USER_WITH_POST = Prisma.validator<Prisma.PostDefaultArgs>()({
 });
 
 /**
- * 위 select 결과 타입을 추출하는 Prisma.util
+ * 위 select 결과 타입을 추출하는 Prisma 유틸 타입
  *
  * @link https://www.prisma.io/docs/orm/prisma-client/type-safety/operating-against-partial-structures-of-model-types
  */
